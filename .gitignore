@@ -1,3 +1,7 @@
+# Archivos relacionados a la tarea que no se deben incluir en el control de versiones
+.pdf
+.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
